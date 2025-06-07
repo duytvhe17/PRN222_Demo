@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections;
-using Demo_ServiceCollectionClass.Model;
+using ServiceCollectionDemo.Model;
 using Microsoft.Extensions.DependencyInjection;
+using ServiceCollectionDemo.Model;
+using Microsoft.Extensions.DependencyInjection;
+
 
 class Program
 {
